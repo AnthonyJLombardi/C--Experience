@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ajbutuppercase/CLionProjects/CS142A402/Equation.cpp
+Equation.h
+/home/ajbutuppercase/CLionProjects/CS142A402/Equation.h
+
+/home/ajbutuppercase/CLionProjects/CS142A402/Equation.h
+iostream
+-
+

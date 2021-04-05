@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ajbutuppercase/CLionProjects/A8/String.h
+cstring
+-
+algorithm
+-
+iostream
+-
+initializer_list
+-
+
+/home/ajbutuppercase/CLionProjects/A8/main.cpp
+String.h
+/home/ajbutuppercase/CLionProjects/A8/String.h
+string
+-
+

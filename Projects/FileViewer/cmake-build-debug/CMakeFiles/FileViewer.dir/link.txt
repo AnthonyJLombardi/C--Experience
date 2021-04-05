@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/FileViewer.dir/test.cpp.o CMakeFiles/FileViewer.dir/Buffer.cpp.o CMakeFiles/FileViewer.dir/FileViewer.cpp.o  -o FileViewer 

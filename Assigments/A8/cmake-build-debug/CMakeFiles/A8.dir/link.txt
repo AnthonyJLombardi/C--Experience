@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/A8.dir/main.cpp.o CMakeFiles/A8.dir/String.cpp.o  -o A8 

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CS142A402"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS142A402">
+				<Option output="/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/CS142A402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/../../../../include/c++/9/x86_64-solus-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS142A402"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CS142A402/fast">
+				<Option output="/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/CS142A402" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/../../../../include/c++/9"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/../../../../include/c++/9/x86_64-solus-linux"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/../../../../include/c++/9/backward"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/include"/>
+					<Add directory="/usr/lib64/gcc/x86_64-solus-linux/9/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 CS142A402/fast"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ajbutuppercase/CLionProjects/CS142A402/Equation.cpp">
+			<Option target="CS142A402"/>
+		</Unit>
+		<Unit filename="/home/ajbutuppercase/CLionProjects/CS142A402/Equation.h">
+			<Option target="CS142A402"/>
+		</Unit>
+		<Unit filename="/home/ajbutuppercase/CLionProjects/CS142A402/main.cpp">
+			<Option target="CS142A402"/>
+		</Unit>
+		<Unit filename="/home/ajbutuppercase/CLionProjects/CS142A402/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

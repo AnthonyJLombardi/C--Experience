@@ -1,0 +1,3 @@
+The Carnegie Foundation for the Advancement of Teaching (CFAT) is a U.S.-based education policy and research center. It was founded by <a /home/ajbutuppercase/CLionProjects/FileViewer/a_carnegie.txt Andrew Carnegie> in 1905 
+and chartered in 1906 by an act of the United States Congress. Among its most notable accomplishments are the development of the Teachers Insurance and Annuity Association 
+(TIAA), the Flexner Report on medical education, the Carnegie Unit, the Educational Testing Service, and the Carnegie Classification of Institutions of Higher Education.

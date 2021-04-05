@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="FileViewer" targetName="FileViewer" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3cc02b2-ce58-4f52-87c6-dbbd1e7fb4ed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1S9sMAUH2phVUlwXvzC1qasAGmk" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="FileViewer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="FileViewer" TARGET_NAME="FileViewer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="FileViewer" RUN_TARGET_NAME="FileViewer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3cc02b2-ce58-4f52-87c6-dbbd1e7fb4ed" name="Default Changelist" comment="" />
+      <created>1570987095142</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570987095142</updated>
+      <workItem from="1570987096917" duration="1416000" />
+      <workItem from="1570988984940" duration="93000" />
+      <workItem from="1570989310458" duration="488000" />
+      <workItem from="1570989936234" duration="1211000" />
+      <workItem from="1571422941325" duration="8902000" />
+      <workItem from="1571617594513" duration="1440000" />
+      <workItem from="1571786528742" duration="94000" />
+      <workItem from="1571795045993" duration="121000" />
+      <workItem from="1572393818083" duration="1341000" />
+      <workItem from="1572460684120" duration="1833000" />
+      <workItem from="1572722722596" duration="7988000" />
+      <workItem from="1572739009306" duration="1893000" />
+      <workItem from="1572809363946" duration="114000" />
+      <workItem from="1572816777751" duration="1027000" />
+      <workItem from="1572817897782" duration="45000" />
+      <workItem from="1572818118620" duration="3801000" />
+      <workItem from="1572894367452" duration="612000" />
+      <workItem from="1572972477833" duration="6043000" />
+      <workItem from="1574091543739" duration="677000" />
+      <workItem from="1574179528176" duration="619000" />
+      <workItem from="1574282387285" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

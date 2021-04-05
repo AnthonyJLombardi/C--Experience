@@ -1,0 +1,8 @@
+Wallace H. Coulter (February 17, 1913 – August 7, 1998) was an American electrical engineer, inventor, and businessman. The best known of his 85 patents 
+is the Coulter principle, which provides a method for counting and sizing microscopic particles suspended in fluid. His invention of the Coulter Counter 
+made possible today’s most common medical diagnostic test: the complete blood count (CBC). The Coulter principle is used in quality control of consumer products, 
+such as chocolate and beer, paint and toners, and was even used to analyze moon dust. <p>
+
+Recognized as one of the most influential inventors of the twentieth century, Wallace Coulter studied electronics as a student at Georgia Tech in the early 1930s. 
+Mr. Coulter developed the "Coulter Principle," a theory that gave birth to both the automated hematology industry and the field of industrial fine particle counting. 
+His "Coulter Counter," a blood cell analyzer, is used to perform one of medicine's most often-requested and informative diagnostic tests, the complete blood count.

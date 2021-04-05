@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ajbutuppercase/CLionProjects/FileViewer/Buffer.cpp
+Buffer.h
+/home/ajbutuppercase/CLionProjects/FileViewer/Buffer.h
+algorithm
+-
+
+/home/ajbutuppercase/CLionProjects/FileViewer/Buffer.h
+fstream
+-
+iomanip
+-
+iostream
+-
+string
+-
+vector
+-
+map
+-
+
+/home/ajbutuppercase/CLionProjects/FileViewer/FileViewer.cpp
+FileViewer.h
+/home/ajbutuppercase/CLionProjects/FileViewer/FileViewer.h
+
+/home/ajbutuppercase/CLionProjects/FileViewer/FileViewer.h
+cstdlib
+-
+iostream
+-
+string
+-
+Buffer.h
+/home/ajbutuppercase/CLionProjects/FileViewer/Buffer.h
+
+/home/ajbutuppercase/CLionProjects/FileViewer/test.cpp
+FileViewer.h
+/home/ajbutuppercase/CLionProjects/FileViewer/FileViewer.h
+

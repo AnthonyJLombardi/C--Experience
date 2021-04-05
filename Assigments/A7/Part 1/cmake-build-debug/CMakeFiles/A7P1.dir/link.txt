@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/A7P1.dir/main.cpp.o  -o A7P1 

@@ -1,0 +1,3 @@
+/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/CMakeFiles/CS142A402.dir
+/home/ajbutuppercase/CLionProjects/CS142A402/cmake-build-debug/CMakeFiles/edit_cache.dir
